@@ -1,2 +1,2 @@
 # webtech-hw
-This repo will stor my web homeworks.
+This repo will store my web homeworks.
